@@ -13,7 +13,7 @@ const SERVICE_UUID =
 const CHARACTERISTIC_UUID =
   "c1aad43f-e669-4143-ab12-014259737a04";
 
-const DEVICE_NAME = "ESP32_TOUCH_LAB";
+const DEVICE_NAME = "lab2";
 
 // Elementy HTML
 const $ = (id) => document.getElementById(id);
