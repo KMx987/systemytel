@@ -1,7 +1,7 @@
 #pragma once 
  
 // Nazwa urządzenia Bluetooth 
-#define DEVICE_NAME "lab2" 
+#define DEVICE_NAME "ESP32_TOUCH_LAB" 
  
 // UUID usługi BLE 
 #define SERVICE_UUID "8695761e-bf14-49e7-b79e-4751a5231ed9"
